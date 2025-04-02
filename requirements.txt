@@ -1,0 +1,10 @@
+streamlit
+langchain_community
+langchain
+openai
+mysql-connector-python
+pandas
+python-dotenv
+matplotlib
+pandas
+seaborn
